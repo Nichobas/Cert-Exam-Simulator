@@ -1,22 +1,22 @@
 # Cert Exam Simulator
 
-Cert Exam Simulator est une application iPad permettant de créer, jouer et suivre vos quiz. Importez ou exportez vos questions et synchronisez vos résultats via iCloud.
+Cert Exam Simulator is an iPad application that lets you create, play and track your quizzes. Import or export your questions and sync your results via iCloud.
 
 ## FAQ
 
-**Q : Comment importer mes quiz ?**
-R : Utilisez la fonction d'importation dans les paramètres de l'application pour sélectionner un fichier JSON et ajouter des questions à votre bibliothèque.
+**Q: How do I import my quizzes?**
+A: Use the import feature in the app settings to select a JSON file and add questions to your library.
 
-**Q : Où sont enregistrés mes résultats ?**
-R : Les résultats sont sauvegardés localement sur votre appareil et synchronisés via iCloud si vous êtes connecté.
+**Q: Where are my results saved?**
+A: Results are stored locally on your device and synchronized via iCloud when you are signed in.
 
-**Q : Puis-je partager mes quiz avec d'autres personnes ?**
-R : Oui. Les quiz peuvent être exportés au format JSON afin que d'autres utilisateurs puissent les importer.
+**Q: Can I share my quizzes with others?**
+A: Yes. Quizzes can be exported in JSON format so that other users can import them.
 
 ## Contact
 
-Pour toute question ou problème, ouvrez une issue sur ce répertoire ou contactez‑nous à l'adresse [support@example.com](mailto:support@example.com).
+For any questions or issues, open an issue in this repository or reach us at [support@example.com](mailto:support@example.com).
 
 ## Support
 
-Si vous rencontrez des difficultés, consultez la FAQ ci‑dessus. Pour une assistance supplémentaire, contactez le support à l'adresse indiquée ou créez un ticket dans le gestionnaire d'issues.
+If you experience difficulties, consult the FAQ above. For further assistance, contact support at the address above or create a ticket in the issue tracker.
