@@ -15,7 +15,7 @@ A: Yes. Quizzes can be exported in JSON format so that other users can import th
 
 ## Contact
 
-For any questions or issues, open an issue in this repository or reach us at [support@example.com](mailto:support@example.com).
+For any questions or issues, open an issue in this repository or reach us at [bodegas_areal5s@icloud.com](mailto:bodegas_areal5s@icloud.com).
 
 ## Support
 
